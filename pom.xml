@@ -3,12 +3,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.yyx.netty</groupId>
-    <artifactId>spring-boot-netty</artifactId>
+    <groupId>org.netty</groupId>
+    <artifactId>springboot-netty</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>spring-boot-netty</name>
+    <name>springboot-netty</name>
     <description>
         Netty 学习之路
         netty-server是基于Netty开发的一款Server端代码

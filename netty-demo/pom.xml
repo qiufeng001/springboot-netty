@@ -11,8 +11,8 @@
     <description>可以正常使用的Netty与SpringBoot集成的Demo</description>
 
     <parent>
-        <groupId>org.yyx.netty</groupId>
-        <artifactId>spring-boot-netty</artifactId>
+        <groupId>org.netty</groupId>
+        <artifactId>springboot-netty</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 

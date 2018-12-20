@@ -11,7 +11,7 @@
     <description>netty-client with spring boot</description>
 
     <parent>
-        <groupId>org.yyx.netty</groupId>
+        <groupId>org.netty</groupId>
         <artifactId>netty-demo</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
@@ -23,7 +23,7 @@
             <optional>true</optional>
         </dependency>
         <dependency>
-            <groupId>org.yyx.netty</groupId>
+            <groupId>org.netty</groupId>
             <artifactId>netty-commons</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>

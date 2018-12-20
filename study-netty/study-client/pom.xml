@@ -12,7 +12,7 @@
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
-		<groupId>org.yyx.netty</groupId>
+		<groupId>org.netty</groupId>
 		<artifactId>study-netty</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
